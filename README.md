@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FerrazNathan
 - 👀 I’m interested in ...vagas de FrontEnd
-- 🌱 I’m currently learning ...React
+- 🌱 I’m currently learning ...React.Js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
