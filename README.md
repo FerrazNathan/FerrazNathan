@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @FerrazNathan
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...React.Js, Java Script
+- 🌱 I’m currently learning ...React.Js, Java  Script,  Next.js
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ...nathanferraz@hotmail.com
 
 <!---
 FerrazNathan/FerrazNathan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
