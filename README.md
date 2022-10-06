@@ -1,6 +1,7 @@
-### Olá, eu sou o Nathan Ferrraz ✋
+### Muito prazer! eu sou o Nathan Ferrraz ✋
 
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://web.whatsapp.com/send?phone=+5511941124111)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
 
 ![Ferraz GitHub stats](https://github-readme-stats.vercel.app/api?username=FerrazNathan&show_icons=true&theme=radical)
 
@@ -22,7 +23,9 @@
   <img align= 'center' alt='Jira' src= 'https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white' />
   <img align= 'center' alt='EsLint' src= 'https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white' />
   <img align= 'center' alt='Prettier' src= 'https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E' />
-</div>
+</div></br>
+
+
 
 <!--
 **FerrazNathan/FerrazNathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
