@@ -1,6 +1,6 @@
 ### Olá, eu sou o Nathan Ferrraz ✋
 
-[![]()]()
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]()
 
 ![Ferraz GitHub stats](https://github-readme-stats.vercel.app/api?username=FerrazNathan&show_icons=true&theme=radical)
 
