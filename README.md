@@ -15,7 +15,9 @@
   <img align= 'center' alt='Html5' src= 'https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white' />
   <img align= 'center' alt='Styled-components' src= 'https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white' />
   <img align= 'center' alt='CSS' src= 'https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white' />
-  <img align= 'center' alt='Sass' src= 'https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white' />  
+  <img align= 'center' alt='Sass' src= 'https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white' /> 
+</div>
+<div style= 'display: inline_block'><br />
   <img align= 'center' alt='Azure' src= 'https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white' />
   <img align= 'center' alt='Jira' src= 'https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white' />
   <img align= 'center' alt='EsLint' src= 'https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white' />
