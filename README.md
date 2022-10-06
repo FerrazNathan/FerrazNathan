@@ -19,7 +19,7 @@
   <img align= 'center' alt='Styled-components' src= 'https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white' />
 </div>
 <div style= 'display: inline_block'><br />
-  <img align= 'center' alt='Azure' src= '[https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)' />
+  <img align= 'center' alt='Azure' src= 'https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white' />
 </div>
 <div style= 'display: inline_block'><br />
   <img align= 'center' alt='Html5' src= 'https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white' />
