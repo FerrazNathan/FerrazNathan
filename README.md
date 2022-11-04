@@ -26,7 +26,9 @@
   <img align= 'center' alt='Prettier' src= 'https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E' />
 </div></br>
 
+Aprender a programar aumenta a mente e ajuda a pensar melhor. (Bill Gates)
 
+Uma mente que se abre a uma nova ideia, jamais voltará ao seu tamanho original. (Albert Einstein)
 
 <!--
 **FerrazNathan/FerrazNathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
