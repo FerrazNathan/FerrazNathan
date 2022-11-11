@@ -24,6 +24,7 @@
   <img align= 'center' alt='Jira' src= 'https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white' />
   <img align= 'center' alt='EsLint' src= 'https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white' />
   <img align= 'center' alt='Prettier' src= 'https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E' />
+  <img align= 'center' alt='Mui' src= 'https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white' />
 </div></br>
 
 Aprender a programar aumenta a mente e ajuda a pensar melhor. (Bill Gates)
