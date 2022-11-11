@@ -15,8 +15,8 @@
   <img align= 'center' alt='Native' src= 'https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB' />
   <img align= 'center' alt='Type Script' src= 'https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white' />
   <img align= 'center' alt='Next' src= 'https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white' />
-  <img align= 'center' alt='Html5' src= 'https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white' />  
-  <img align= 'center' alt='CSS' src= 'https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white' />
+  <img align= 'center' alt='Html5' src= 'https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white' />  
+  <img align= 'center' alt='CSS' src= 'https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white' />
   <img align= 'center' alt='Sass' src= 'https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white' /> 
 </div>
 <div style= 'display: inline_block'></br>
@@ -26,6 +26,7 @@
   <img align= 'center' alt='EsLint' src= 'https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white' />
   <img align= 'center' alt='Prettier' src= 'https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E' />
   <img align= 'center' alt='Mui' src= 'https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white' />
+  <img align= 'center' alt='Swagger' src= 'https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white' />
 </div></br>
 
 Aprender a programar aumenta a mente e ajuda a pensar melhor. (Bill Gates)
