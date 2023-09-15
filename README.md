@@ -4,7 +4,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-ferraz-022659216/)
 
-![Ferraz GitHub stats](https://github-readme-stats.vercel.app/api?username=FerrazNathan&show_icons=true&theme=radical)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FerrazNathan&layout=compact)](https://github.com/FerrazNathan/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia a dia
